@@ -1,0 +1,39 @@
+body{
+    background-color: green;
+    margin-left: 35px;
+}
+h1{
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin: auto;
+    border-radius: 35px;
+}
+p{
+    color: black;
+    
+    
+}
+
+.btn{
+    padding: 10px 8px;
+    width: 100px;
+    color: white;
+    background: blue;
+    border-radius: 5px;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+    margin: auto;
+}
+
+.btn:hover{
+    background: rgb(82, 82, 180);
+}
+
+input{
+    border-radius: 10px;  
+  
+}
